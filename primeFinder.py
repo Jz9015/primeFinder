@@ -14,4 +14,4 @@ while testNum<=safety:
         exit()
 print(num,"is prime")
 end = time.time()
-print(end-start)
+print("Time: "+str(end-start))
